@@ -1,4 +1,4 @@
-FROM tkelman/julia32-part1:master
+FROM tkelman/julia32-part1:release-0.4
 MAINTAINER Tony Kelman <tony@kelman.net>
 
 WORKDIR /home/julia-i686
